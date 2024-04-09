@@ -51,6 +51,7 @@ const project: CosmosProject = {
         {
           file: "./proto/injective/wasmx/v1/tx.proto",
           messages: ["MsgExecuteContractCompat"],
+          
         },
       ],
     ]),
